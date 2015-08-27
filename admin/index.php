@@ -1,5 +1,5 @@
 <?php
-$inicio=true;
+$dashboard=true;
 ?>
 <?php include "header.php"; ?>
 <?php include "sidebar.php"; ?>		
@@ -9,7 +9,7 @@ $inicio=true;
 		<div class="row">
 			<ol class="breadcrumb">
 				<li><a href="/"><span class="glyphicon glyphicon-home"></span></a></li>
-				<li class="active">Inicio</li>
+				<li class="active">Dashboard</li>
 			</ol>
 		</div><!--/.row-->
 		
